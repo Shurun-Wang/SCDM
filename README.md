@@ -56,13 +56,15 @@ This project contains four main files as follows:
 - Here, you can complete the missing regions through LATC/LAMC/BTMF/TRMF.
   - The corresponding files are in  `/Baseline`
 
-### Step 3: Checking the classification results after completion 
-`python main_classifier.py `
-- Before run this file, you should finish step 1 and step 2.
-
-### Step 4: XXXXX
+### Step 3: The prediction results through dl-based methods 
 `python main_predictor.py `
-- XXXXXXXXX.
+- Here, you can predict the missing regions through SAITS/Transformer/BRITS.
+  - The corresponding files are in  `/Predictor`
+
+### Step 4: Checking the classification results after completion 
+`python main_classifier.py `
+- Before run this file, you should finish step 1, step 2, and step 3.
+  - The corresponding files are in  `/Classifier`
 
 
 ## Results
