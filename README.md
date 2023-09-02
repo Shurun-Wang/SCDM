@@ -34,11 +34,6 @@ Coming Soon ! :relaxed: :relaxed: :relaxed:
 
     `Dataset/EEG/processed_data/`
 
- - You can download the raw data at
-   - ECG:
-   - EMG:
-   - EEG:
-
 ## How to run this project
 This project contains four main files as follows:
 
