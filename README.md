@@ -1,7 +1,7 @@
 # SCDM
 PyTorch Source code for "A Robust Denoising Diffusion Architecture for Completing Missing Regions of Multiple Physiological Signals", Under Review.
 
-Coming Soon ! :relaxed: :relaxed: :relaxed:
+We will release the code when the article is accepted. You can also find other open-sourced biomedical signal analysis projects in my [academic](https://shurun-wang.github.io/) page. :relaxed: :relaxed: :relaxed:
 
 ## Requirements
 <details>
